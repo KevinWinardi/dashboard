@@ -4,6 +4,7 @@ import seaborn as sns
 import streamlit as st
 
 with st.sidebar :
+    st.image("https://github.com/KevinWinardi/dashboard/blob/main/sepeda.png?raw=true")
     st.write("Check [Pengaruh Musim](#pengaruh-musim)")
     st.write("Check [Pengaruh Cuaca](#pengaruh-cuaca)")
     st.write("Check [Pengaruh Kecepatan Angin](#pengaruh-kecepatan-angin)")
